@@ -88,6 +88,16 @@ Copy these two directories into the target project's `.claude/skills/` directory
     └── references/
 ```
 
+### Option C — Install with Skills CLI
+
+Run this command from the root of your target project:
+
+```bash
+npx skills add https://skills.sh/p/t4xfQAV6GA36G1lV
+```
+
+Follow the CLI prompts to choose the skills and supported agents you want to install.
+
 ### Example prompts
 
 **Plan a complete PMV:**
